@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+celery[redis]
+sqlalchemy
+python-multipart
+boto3
+ffmpeg-python
+pydantic
+requests
+git+https://github.com/openai/whisper.git
+pyttsx3
+google-cloud-speech
+scenedetect
+psycopg2-binary
